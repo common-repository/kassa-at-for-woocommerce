@@ -1,0 +1,264 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: KASSA.AT For WooCommerce 1.1.0\n"
+"POT-Creation-Date: 2022-01-24 12:52+0100\n"
+"PO-Revision-Date: 2022-01-24 20:59+0100\n"
+"Last-Translator: manuelschultz\n"
+"Language-Team: KASSA.AT\n"
+"Language: de_CH@informal\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.0\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e;esc_attr_e;esc_html__\n"
+"X-Poedit-SearchPath-0: api-connection.php\n"
+"X-Poedit-SearchPath-1: create-menus.php\n"
+"X-Poedit-SearchPath-2: kassa-at-for-woocommerce.php\n"
+"X-Poedit-SearchPath-3: stock-syncro.php\n"
+
+#: create-menus.php:28 create-menus.php:29
+msgid "Options"
+msgstr "Optionen"
+
+#: create-menus.php:37 create-menus.php:38
+msgid "Logs"
+msgstr "Logs"
+
+#: create-menus.php:51
+msgid "You do not have sufficient permissions to access this page."
+msgstr ""
+"Sie haben nicht die nötigen Berechtigungen um auf die Seite zuzugreifen."
+
+#: create-menus.php:232
+msgid "KASSA.AT connection:"
+msgstr "Verbindung zu KASSA.AT:"
+
+#: create-menus.php:235
+msgid "You are already connected to a KASSA.AT account."
+msgstr "Sie sind bereits mit einem KASSA.AT-Konto verbunden."
+
+#: create-menus.php:238
+msgid "Remove connection to KASSA.AT."
+msgstr "Entfernen Sie die Verbindung zu KASSA.AT."
+
+#: create-menus.php:248
+msgid "Connect with KASSA.AT account"
+msgstr "Mit KASSA.AT Verbinden"
+
+#: create-menus.php:253
+msgid "Dont have a KASSA.AT account? Create one!"
+msgstr "Haben Sie kein KASSA.AT-Konto? Erstellen Sie eines!"
+
+#: create-menus.php:259
+msgid "Synchronize Stocks:"
+msgstr "Synchronisieren Sie den Lagerstand:"
+
+#: create-menus.php:260
+msgid "Choose warehouse:"
+msgstr "Wählen Sie ein Lager:"
+
+#: create-menus.php:270
+msgid "Save changes!"
+msgstr "Änderungen speichern!"
+
+#: create-menus.php:277
+msgid "Synchronize stocks with KASSA.AT."
+msgstr "Lagerstände mit KASSA.AT synchronisieren."
+
+#: create-menus.php:278
+msgid "Use KASSA.AT-data"
+msgstr "KASSA.AT-Daten als Master verwenden"
+
+#: create-menus.php:285
+msgid "Synchronize!"
+msgstr "Synchronisieren!"
+
+#: create-menus.php:296
+msgid "Synchronize on the Single Product Page!"
+msgstr "Synchronisieren auf der Produktseite!"
+
+#: create-menus.php:305
+msgid "Synchronize on the Cart Page!"
+msgstr "Synchronisieren im Einkaufswagen!"
+
+#: create-menus.php:314
+msgid "Synchronize when the order is received!"
+msgstr "Synchronisieren wenn eine Bestellung eingeht!"
+
+#: create-menus.php:404 create-menus.php:560
+msgid "Parameters"
+msgstr "Parameter"
+
+#: create-menus.php:405 create-menus.php:561
+msgid "API-Key"
+msgstr "API-Schlüssel"
+
+#: create-menus.php:406 create-menus.php:562
+msgid "Result"
+msgstr "Ergebnis"
+
+#: create-menus.php:407 create-menus.php:409 create-menus.php:412
+#: create-menus.php:414 create-menus.php:563 create-menus.php:565
+#: create-menus.php:568 create-menus.php:570
+msgid "Location"
+msgstr "Ort"
+
+#: create-menus.php:411 create-menus.php:567
+msgid "Changes"
+msgstr "Änderungen"
+
+#: create-menus.php:509
+msgid "Plugin Logs:"
+msgstr "Plugin Logs:"
+
+#: create-menus.php:512
+msgid "Reload logfile"
+msgstr "Logdatei neu laden"
+
+#: create-menus.php:513
+msgid "Refreshed"
+msgstr "Aktualisiert"
+
+#: create-menus.php:518 create-menus.php:519
+msgid "Enable Logging"
+msgstr "Logging aktivieren"
+
+#: create-menus.php:518 create-menus.php:519
+msgid "Disable Logging"
+msgstr "Logging deaktivieren"
+
+#: create-menus.php:521
+msgid "Delete logfile"
+msgstr "Logdatei leeren"
+
+#: create-menus.php:522
+msgid "Download logfile"
+msgstr "Logdatei herunterladen"
+
+#: create-menus.php:527 create-menus.php:528 create-menus.php:529
+#: create-menus.php:530 create-menus.php:532
+msgid "lines"
+msgstr "Zeilen"
+
+#: create-menus.php:535
+msgid "Limit kaw-log length"
+msgstr "Länge der Logdatei begrenzen"
+
+#: create-menus.php:535
+msgid "Save"
+msgstr "Speichern"
+
+#: create-menus.php:577
+msgid "Database options"
+msgstr "Datenbank Optionen"
+
+#: create-menus.php:581
+msgid "Creator"
+msgstr "Ersteller"
+
+#: create-menus.php:582
+msgid "Option-name"
+msgstr "Name der Option"
+
+#: create-menus.php:583
+msgid "Option-value"
+msgstr "Wert der Option"
+
+#: create-menus.php:588 create-menus.php:593 create-menus.php:598
+#: create-menus.php:603 create-menus.php:608 create-menus.php:613
+#: create-menus.php:618 create-menus.php:623 create-menus.php:628
+msgid "KASSA.AT For WooCommerce"
+msgstr "KASSA.AT Für WooCommerce"
+
+#: kassa-at-for-woocommerce.php:316
+msgid "Please follow these instructions to use the plugin:"
+msgstr "Bitte folgen Sie den Anweisungen, um das Plugin einzurichten:"
+
+#: kassa-at-for-woocommerce.php:320
+#, php-format
+msgid ""
+"If you don't have a KASSA.AT account please create one <a href=\"%s\">here</"
+"a>."
+msgstr ""
+"Wenn Sie kein KASSA.AT Konto haben erstellen Sie eines <a href=\"%s\">hier</"
+"a>."
+
+#: kassa-at-for-woocommerce.php:321
+msgid ""
+"Use the Button \"Connect with KASSA.AT account\" to connect to the register-"
+"service."
+msgstr ""
+"Klicken Sie den Knopf \"Mit KASSA.AT Verbinden\" um die Verbindung "
+"herzustellen."
+
+#: kassa-at-for-woocommerce.php:325
+msgid ""
+"Login the KASSA.AT site and create your articles. Note that in order to have "
+"connect the WP-site and the KASSA.AT-account, you need to fill in the "
+"\"Artikelnummer\"-field with your article numbers."
+msgstr ""
+"Loggen Sie sich in Ihr KASSA.AT Konto ein und legen Sie Ihre Artikel an. "
+"Beachten Sie, dass Sie das Feld \"Artikelnummer\" ausfüllen (Dies wird "
+"später noch wichtig)."
+
+#: kassa-at-for-woocommerce.php:326
+msgid ""
+"In your KASSA.AT account, create a warehouse and assign the articles to it."
+msgstr ""
+"Legen Sie dann ein Lager in Ihrem KASSA.AT Konto an und befüllen Sie dieses "
+"mit Ihren Artikeln."
+
+#: kassa-at-for-woocommerce.php:327
+msgid ""
+"Go back to your WordPress page, choose your register-warehouse from your "
+"KASSA.AT's warehouses."
+msgstr ""
+"Gehen Sie nun zurück zu Ihrer WordPress Seite und wählen Sie das Lager aus, "
+"das Sie eben befüllt haben."
+
+#: kassa-at-for-woocommerce.php:328
+msgid ""
+"Go to your woocommerce-article section and create or edit your articles, use "
+"the article-number from your KASSA.AT-articles in the \"SKU\"-field and "
+"activate stock-management."
+msgstr ""
+"Gehen Sie zu der Artikelübersicht von Woocommerce und erstellen Sie hier "
+"Ihre Artikel oder bearbeiten Sie diese. Achten Sie bitte darauf, dass Sie "
+"die Artikelnummer Ihrer KASSA.AT Artikel in das \"Artikelnummer\"-Feld "
+"eintragen und aktivieren Sie \"Lagerbestand verwalten\"."
+
+#: kassa-at-for-woocommerce.php:329
+msgid ""
+"Go to the KASSA.AT-menu in your wordpress-site and press the \"Synchronize!"
+"\" Button."
+msgstr ""
+"Gehen Sie auf Ihrer WordPress-Seite in das KASSA.AT Menü zurück und drücken "
+"Sie auf den \"Synchronisieren!\"-Knopf."
+
+#: kassa-at-for-woocommerce.php:331
+msgid ""
+"And here we go. Whenever a customer buys anything in your local store or a "
+"customer orders something in your online-store, your KASSA.AT-service will "
+"have trace of that and will always check, that the onlineshop displays the "
+"correct amount of items in stock."
+msgstr ""
+"Und schon sind wir fertig. Wann immer ein Kunde etwas in Ihrem Geschäft "
+"kauft, oder etwas in Ihrem Onlineshop bestellt Werden die Lagerstände von "
+"beiden Systemen angepasst, sodass Sie immer den korrekten Lagerstand im "
+"Blick haben können."
+
+#: kassa-at-for-woocommerce.php:337
+#, php-format
+msgid "If you have any questions with the setting up, feel free to %s."
+msgstr "Wenn Sie irgendwelche Fragen haben, %s."
+
+#: kassa-at-for-woocommerce.php:341
+msgid "contact us"
+msgstr "kontaktieren Sie uns"
+
+#: stock-syncro.php:149
+#, php-format
+msgid "Woocommerce Invoice: %s"
+msgstr "Woocommerce-Rechnung: %s"

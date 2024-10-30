@@ -1,0 +1,156 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: KASSA.AT For WooCommerce 1.0.0\n"
+"POT-Creation-Date: 2020-12-29 09:29+0100\n"
+"PO-Revision-Date: 2020-12-29 09:31+0100\n"
+"Last-Translator: manuelschultz\n"
+"Language-Team: KASSA.AT\n"
+"Language: hr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.4.2\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e;esc_attr_e;esc_html__\n"
+"X-Poedit-SearchPath-0: api-connection.php\n"
+"X-Poedit-SearchPath-1: create-menus.php\n"
+"X-Poedit-SearchPath-2: kassa-at-for-woocommerce.php\n"
+"X-Poedit-SearchPath-3: stock-syncro.php\n"
+
+#: create-menus.php:33
+msgid "You do not have sufficient permissions to access this page."
+msgstr "Nemate dovoljna dopuštenja za pristup ovoj stranici."
+
+#: create-menus.php:152
+msgid "KASSA.AT connection:"
+msgstr "KASSA.AT veza:"
+
+#: create-menus.php:155
+msgid "You are already connected to a KASSA.AT account."
+msgstr "Već ste povezani s KASSA.AT računom."
+
+#: create-menus.php:158
+msgid "Remove connection to KASSA.AT."
+msgstr "Uklonite vezu s KASSA.AT."
+
+#: create-menus.php:166
+msgid "Connect with KASSA.AT account"
+msgstr "Povežite se s KASSA.AT računom"
+
+#: create-menus.php:171
+msgid "Dont have a KASSA.AT account? Create one!"
+msgstr "Nemate KASSA.AT račun? Stvori jedan!"
+
+#: create-menus.php:177
+msgid "Synchronize Stocks:"
+msgstr "Sinkronizirajte zalihe:"
+
+#: create-menus.php:178
+msgid "Choose warehouse:"
+msgstr "Odaberite skladište:"
+
+#: create-menus.php:188
+msgid "Save changes!"
+msgstr "Spremi promjene!"
+
+#: create-menus.php:195
+msgid "Synchronize stocks with KASSA.AT."
+msgstr "Sinkronizirajte zalihe s KASSA.AT."
+
+#: create-menus.php:196
+msgid "Use KASSA.AT-data"
+msgstr "Koristite KASSA.AT-podatke"
+
+#: create-menus.php:203
+msgid "Synchronize!"
+msgstr "Sinkronizirajte!"
+
+#: kassa-at-for-woocommerce.php:167
+msgid "Please follow these instructions to use the plugin:"
+msgstr "Slijedite ove upute za upotrebu dodatka:"
+
+#: kassa-at-for-woocommerce.php:171
+#, php-format
+msgid ""
+"If you don't have a KASSA.AT account please create one <a href=\"%s\">here</"
+"a>."
+msgstr "Ako nemate KASSA.AT račun, stvorite ga <a href=\"%s\"> ovdje </a>."
+
+#: kassa-at-for-woocommerce.php:172
+msgid ""
+"Use the Button \"Connect with KASSA.AT account\" to connect to the register-"
+"service."
+msgstr ""
+"Upotrijebite gumb \"Poveži se s računom KASSA.AT\" za povezivanje s uslugom "
+"registracije."
+
+#: kassa-at-for-woocommerce.php:176
+msgid ""
+"Login the KASSA.AT site and create your articles. Note that in order to have "
+"connect the WP-site and the KASSA.AT-account, you need to fill in the "
+"\"Artikelnummer\"-field with your article numbers."
+msgstr ""
+"Prijavite se na stranicu KASSA.AT i izradite svoje članke. Imajte na umu da "
+"da biste povezali WP-stranicu i KASSA.AT-račun, morate ispuniti polje "
+"\"Artikelnummer\" s brojevima članaka."
+
+#: kassa-at-for-woocommerce.php:177
+msgid ""
+"In your KASSA.AT account, create a warehouse and assign the articles to it."
+msgstr "Na svom KASSA.AT računu izradite skladište i dodijelite mu članke."
+
+#: kassa-at-for-woocommerce.php:178
+msgid ""
+"Go back to your WordPress page, choose your register-warehouse from your "
+"KASSA.AT's warehouses."
+msgstr ""
+"Vratite se na svoju WordPress stranicu, odaberite svoje registarsko "
+"skladište iz svojih KASSA.AT-ovih skladišta."
+
+#: kassa-at-for-woocommerce.php:179
+msgid ""
+"Go to your woocommerce-article section and create or edit your articles, use "
+"the article-number from your KASSA.AT-articles in the \"SKU\"-field and "
+"activate stock-management."
+msgstr ""
+"Idite na pregled članaka Woocommerce i stvorite ili uredite svoje članke "
+"ovdje. Svakako unesite broj članka svog članka KASSA.AT u polje \"SKU\" i "
+"aktivirajte \"upravljanje zalihama\"."
+
+#: kassa-at-for-woocommerce.php:180
+msgid ""
+"Go to the KASSA.AT-menu in your wordpress-site and press the \"Synchronize!"
+"\" Button."
+msgstr ""
+"Idite na KASSA.AT-izbornik na vašem web mjestu za WordPress i pritisnite "
+"\"Sinkroniziraj!\" Dugme."
+
+#: kassa-at-for-woocommerce.php:182
+msgid ""
+"And here we go. Whenever a customer buys anything in your local store or a "
+"customer orders something in your online-store, your KASSA.AT-service will "
+"have trace of that and will always check, that the onlineshop displays the "
+"correct amount of items in stock."
+msgstr ""
+"I evo nas. Kad god kupac kupi bilo što u vašoj lokalnoj trgovini ili kada "
+"kupac nešto naruči u vašoj internetskoj trgovini, vaša usluga KASSA.AT će to "
+"imati u tragu i uvijek će provjeriti da li onlineshop prikazuje točnu "
+"količinu predmeta na zalihi."
+
+#: kassa-at-for-woocommerce.php:188
+#, php-format
+msgid "If you have any questions with the setting up, feel free to %s."
+msgstr "Ako imate ikakvih pitanja, %s."
+
+#: kassa-at-for-woocommerce.php:192
+msgid "contact us"
+msgstr "kontaktirajte nas"
+
+#: stock-syncro.php:96
+#, php-format
+msgid "Woocommerce Invoice: %s"
+msgstr "Woocommerce faktura: %s"
+
+#~ msgid "Choose the domain:"
+#~ msgstr "Odaberite domenu:"
